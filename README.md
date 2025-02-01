@@ -84,11 +84,6 @@ This project is carried out in multiple steps:
 - **Matplotlib, Seaborn** (Data Visualization)
 
 ---
-
-## 📂 Repository Structure
-📂 A-NLP-project-with-sentiment-analysis │── 📄 README.md # Project documentation │── 📄 elon_tweets.csv # Elon Musk's tweets dataset │── 📄 tesla_stock_prices.csv # Tesla stock prices dataset │── 📂 notebooks │ ├── 📄 data_preprocessing.ipynb # Data cleaning & processing │ ├── 📄 sentiment_analysis.ipynb # Sentiment classification │ ├── 📄 machine_learning.ipynb # Model training & evaluation │ ├── 📄 correlation_analysis.ipynb # Sentiment vs stock price analysis │── 📂 models │ ├── 📄 naive_bayes.pkl │ ├── 📄 knn.pkl │ ├── 📄 svm.pkl │── 📂 reports │ ├── 📄 results_analysis.pdf # Findings & insights │── 📄 requirements.txt # Dependencies
-
-
 ---
 
 ## 🔧 Installation & Usage
