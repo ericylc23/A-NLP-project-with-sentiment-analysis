@@ -102,3 +102,4 @@ For questions or collaborations, please reach out to me via:
 📧 Email: ericylc@bu.edu
 🔗 LinkedIn: https://www.linkedin.com/in/eric-yuanlc/
 ```
+🌟 If you found this project useful, don’t forget to ⭐ star the repo!
