@@ -92,10 +92,10 @@ This project is carried out in multiple steps:
 git clone https://github.com/ericylc23/A-NLP-project-with-sentiment-analysis.git
 cd A-NLP-project-with-sentiment-analysis
 
-📝 License
+## 📝 License
 This project is open-source and available under the MIT License.
 
-📬 Contact
+## 📬 Contact
 For questions or collaborations, reach out via:
 
 📧 Email: ericylc@bu.edu
