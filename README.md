@@ -97,7 +97,7 @@ This project is open-source and available under the MIT License.
 
 ## 📬 Contact
 ```bash
-For questions or collaborations, reach out via:
+For questions or collaborations, please reach out to me via:
 
 📧 Email: ericylc@bu.edu
 🔗 LinkedIn: https://www.linkedin.com/in/eric-yuanlc/
